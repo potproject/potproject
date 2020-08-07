@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/potproject/potproject/master/img/my.png" width="30" height="30"> potproject / potpro
+## <img src="https://raw.githubusercontent.com/potproject/potproject/master/img/my.png" width="30" height="30"> potpro / potproject
 
 Full Stack Web Developer.
 
